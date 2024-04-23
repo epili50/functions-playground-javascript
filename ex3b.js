@@ -10,7 +10,7 @@ function isPositive(num) {
  * 1. ¿Que nombre tiene esta función? isPositive
  * 2. ¿Que deberíamos escribir para ejecutar esta función? isPositive(x) -> x es un numero
  * 3. ¿Qué tipo de datos devuelve esta función? ¿Un string, un number o un boolean? booleano
- * 4. El código de abajo usa la función isPositve. ¿La usa adecuadamente? ¿Por qué? Si
+ * 4. El código de abajo usa la función isPositve. ¿La usa adecuadamente? ¿Por qué? No porque es un error logico
  */
 
 let x = 4;
