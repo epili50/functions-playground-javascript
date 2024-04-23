@@ -20,3 +20,5 @@ console.log(myText);
 // No solo eso. JavaScript define muchas funciones en "variables" globales para poder usar.
 let numeroAleatorio = Math.random()
 console.log("Número aleatorio entre 0 y 1")
+
+// prueba
